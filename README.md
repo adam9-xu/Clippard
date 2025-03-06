@@ -1,2 +1,2 @@
-# Clippard
+
 clippard the Ai
